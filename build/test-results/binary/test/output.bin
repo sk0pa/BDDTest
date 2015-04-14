@@ -1,0 +1,10 @@
+!Processing system properties {}
+öUsing controls EmbedderControls[batch=false,skip=false,generateViewAfterStories=true,ignoreFailureInStories=false,ignoreFailureInView=false,verboseFailures=false,verboseFiltering=false,storyTimeoutInSecs=1000,failOnStoryTimeout=false,threads=1]
+Ÿ
+(BeforeStories)
+
+
+(AfterStories)
+
+Generating reports view to 'D:\Materials\ProjectExample\build\classes\jbehave' using formats '[xml, stats, console, html]' and view properties '{navigator=ftl/jbehave-navigator.ftl, views=ftl/jbehave-views.ftl, reports=ftl/jbehave-reports-with-totals.ftl, nonDecorated=ftl/jbehave-report-non-decorated.ftl, decorated=ftl/jbehave-report-decorated.ftl, maps=ftl/jbehave-maps.ftl}'
+hReports view generated with 0 stories (of which 0 pending) containing 0 scenarios (of which 0 pending)
